@@ -24,7 +24,7 @@ Each tool is built as a modular MCP plugin using `Pydantic` classes for structur
 
 - 🐍 **Python 3.8+**
 - 🗃️ **Pydantic** for input schema and model validation
-- 🔗 **GitHub REST API (v3)**
+- 🔗 **Claude Desktop**
 - 🧰 **Custom MCP plugin framework**
 - 🔐 **OAuth Token-based GitHub Auth**
 
